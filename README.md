@@ -102,6 +102,10 @@
 <!-- DL-STATS:START -->
 <!-- 이 블록은 .github/workflows/dl-stats.yml 이 매일 생성합니다. 직접 고치지 마세요. -->
 
-기록이 아직 수집되지 않았습니다.
+최신 기록 **2026-11-19** · 앱 누적 **19건** (설치 11 · 압축판 8) · 오프라인 사전 팩 **16건**
+
+> 스냅숏이 하나뿐이라 아직 그래프를 그릴 수 없습니다 — 내일부터 채워집니다.
+
+자세한 표는 [stats/README.md](stats/README.md), 원본은 [stats/downloads.csv](stats/downloads.csv).
 
 <!-- DL-STATS:END -->
