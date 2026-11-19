@@ -96,3 +96,12 @@
 
 - **[Ibis](https://github.com/dodaseo/ibis-releases)** — 한국 연구자를 위한 문헌 관리 · 한글/Word 본문 인용
 - **[에믹 (Emic)](https://github.com/dodaseo/emic-releases)** — 한국어 질적분석 스튜디오
+
+## 사용 현황
+
+<!-- DL-STATS:START -->
+<!-- 이 블록은 .github/workflows/dl-stats.yml 이 매일 생성합니다. 직접 고치지 마세요. -->
+
+기록이 아직 수집되지 않았습니다.
+
+<!-- DL-STATS:END -->
