@@ -1,0 +1,38 @@
+여울 사용 허가 (독점 · 개인·연구·교육용 무료)
+Yeoul License (Proprietary — free for personal, academic, and research use)
+
+저작권 © 2026 양연동 (Yeondong Yang). 모든 권리 보유.
+Copyright © 2026 Yeondong Yang. All rights reserved.
+
+이 소프트웨어(이하 "여울")는 공개 소스 라이선스로 배포되지 않습니다. 아래 조건에 따라 사용을 허가합니다.
+
+1. 허용되는 사용
+   - 개인적 용도의 사용.
+   - 학술·연구·교육 목적의 사용(논문 작성, 학습, 수업 활용 등).
+   - 소속 기관에서 개인 사용자·연구자로서의 사용.
+   위 범위 안에서는 무료이며, 사용료나 별도의 허락이 필요하지 않습니다.
+
+2. 금지되는 행위
+   - 재배포: 이 소프트웨어 또는 그 일부를 복제·전송·배포하는 행위. 내려받기는 공식 배포처(GitHub 릴리스)를 안내해 주세요.
+   - 판매, 대여, 유료 서비스·제품에 포함하는 행위.
+   - 역공학, 디컴파일, 디스어셈블, 개작물의 배포.
+   - 저작권 표시나 이 사용 허가 문구의 제거·변경.
+
+3. 사용자의 데이터
+   여울로 번역한 결과, 번역 기록, 단어장, 용어집 등 사용자가 작성·저장한 데이터는 전적으로 사용자의 것입니다. 이 사용 허가는 그 데이터에 어떠한 권리도 주장하지 않습니다.
+
+4. 제3자 구성요소
+   여울은 각자의 라이선스로 배포되는 오픈소스 구성요소를 포함합니다(Python, pywebview, pystray, Pillow, httpx, Pretendard 글꼴 등). 해당 구성요소에는 이 문서가 아니라 각자의 라이선스가 적용됩니다.
+
+5. 보증의 부인
+   여울은 "있는 그대로" 제공됩니다. 상품성, 특정 목적에의 적합성, 비침해에 대한 것을 포함해 명시적이든 묵시적이든 어떠한 보증도 하지 않습니다.
+
+6. 책임의 제한
+   저작권자는 여울의 사용 또는 사용 불능으로 발생한 어떠한 손해(데이터 손실 등 포함)에 대해서도 책임지지 않습니다.
+
+7. 문의 및 예외 허가
+   위 범위를 넘는 사용(기관 단위 배포, 재배포, 상업적 이용 등)을 원하시면 공식 저장소의 이슈로 문의해 주세요. 개별 협의로 허가할 수 있습니다.
+
+This software is not open source. Personal, academic, educational, and research use is granted free of charge. Redistribution, resale, inclusion in paid products or services, reverse engineering, and removal of copyright notices are prohibited.
+Provided "as is" without warranty of any kind; the copyright holder is not liable for any damages arising from its use.
+Third-party open-source components remain under their respective licenses.
