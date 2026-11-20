@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="200" viewBox="0 0 760 200" role="img" aria-label="누적 다운로드 추이 — 설치 프로그램 22건, 압축판 14건">
+<g font-family="'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="11">
+<line x1="36" y1="174.0" x2="656" y2="174.0" stroke="#E1E4E9" stroke-width="1"/>
+<text x="28" y="177.5" fill="#636C78" font-size="10" text-anchor="end">0</text>
+<line x1="36" y1="142.0" x2="656" y2="142.0" stroke="#E1E4E9" stroke-width="1"/>
+<text x="28" y="145.5" fill="#636C78" font-size="10" text-anchor="end">5</text>
+<line x1="36" y1="110.0" x2="656" y2="110.0" stroke="#E1E4E9" stroke-width="1"/>
+<text x="28" y="113.5" fill="#636C78" font-size="10" text-anchor="end">10</text>
+<line x1="36" y1="78.0" x2="656" y2="78.0" stroke="#E1E4E9" stroke-width="1"/>
+<text x="28" y="81.5" fill="#636C78" font-size="10" text-anchor="end">15</text>
+<line x1="36" y1="46.0" x2="656" y2="46.0" stroke="#E1E4E9" stroke-width="1"/>
+<text x="28" y="49.5" fill="#636C78" font-size="10" text-anchor="end">20</text>
+<line x1="36" y1="14.0" x2="656" y2="14.0" stroke="#E1E4E9" stroke-width="1"/>
+<text x="28" y="17.5" fill="#636C78" font-size="10" text-anchor="end">25</text>
+<polyline points="36.0,122.8 656.0,84.4" fill="none" stroke="#8A94A0" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="36.0,103.6 656.0,33.2" fill="none" stroke="#0B6B63" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="656.0" cy="33.2" r="2.6" fill="#0B6B63"/>
+<text x="664.0" y="37.2" fill="#0B6B63" font-size="12" font-weight="600">설치 22</text>
+<circle cx="656.0" cy="84.4" r="2.6" fill="#8A94A0"/>
+<text x="664.0" y="88.4" fill="#8A94A0" font-size="12" font-weight="600">압축판 14</text>
+<text x="36.0" y="192" fill="#636C78" font-size="10" text-anchor="start">11.19</text>
+<text x="656.0" y="192" fill="#636C78" font-size="10" text-anchor="end">11.20</text>
+</g>
+</svg>
