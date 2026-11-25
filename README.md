@@ -145,7 +145,7 @@
 <!-- DL-STATS:START -->
 <!-- 이 블록은 .github/workflows/dl-stats.yml 이 매일 생성합니다. 직접 고치지 마세요. -->
 
-최신 기록 **2026-11-24** · 앱 누적 **36건** (설치 22 · 압축판 14) · 오프라인 사전 팩 **21건**
+최신 기록 **2026-11-25** · 앱 누적 **36건** (설치 22 · 압축판 14) · 오프라인 사전 팩 **21건**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/downloads-dark.svg">
