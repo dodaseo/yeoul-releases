@@ -12,14 +12,14 @@
 <text x="28" y="49.5" fill="#949DA8" font-size="10" text-anchor="end">20</text>
 <line x1="36" y1="14.0" x2="656" y2="14.0" stroke="#262A31" stroke-width="1"/>
 <text x="28" y="17.5" fill="#949DA8" font-size="10" text-anchor="end">25</text>
-<polyline points="36.0,122.8 113.5,84.4 191.0,84.4 268.5,84.4 346.0,84.4 423.5,84.4 501.0,84.4 578.5,84.4 656.0,84.4" fill="none" stroke="#8B949E" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
-<polyline points="36.0,103.6 113.5,33.2 191.0,33.2 268.5,33.2 346.0,33.2 423.5,33.2 501.0,33.2 578.5,33.2 656.0,33.2" fill="none" stroke="#4FD1C1" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="36.0,122.8 104.9,84.4 173.8,84.4 242.7,84.4 311.6,84.4 380.4,84.4 449.3,84.4 518.2,84.4 587.1,84.4 656.0,84.4" fill="none" stroke="#8B949E" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="36.0,103.6 104.9,33.2 173.8,33.2 242.7,33.2 311.6,33.2 380.4,33.2 449.3,33.2 518.2,33.2 587.1,33.2 656.0,33.2" fill="none" stroke="#4FD1C1" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="656.0" cy="33.2" r="2.6" fill="#4FD1C1"/>
 <text x="664.0" y="37.2" fill="#4FD1C1" font-size="12" font-weight="600">설치 22</text>
 <circle cx="656.0" cy="84.4" r="2.6" fill="#8B949E"/>
 <text x="664.0" y="88.4" fill="#8B949E" font-size="12" font-weight="600">압축판 14</text>
 <text x="36.0" y="192" fill="#949DA8" font-size="10" text-anchor="start">11.19</text>
-<text x="346.0" y="192" fill="#949DA8" font-size="10" text-anchor="middle">11.23</text>
-<text x="656.0" y="192" fill="#949DA8" font-size="10" text-anchor="end">11.27</text>
+<text x="380.4" y="192" fill="#949DA8" font-size="10" text-anchor="middle">11.24</text>
+<text x="656.0" y="192" fill="#949DA8" font-size="10" text-anchor="end">11.28</text>
 </g>
 </svg>
